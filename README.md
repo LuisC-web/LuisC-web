@@ -1,6 +1,6 @@
 ## 👋 Sobre mí
 
-Soy Luis Ángel Camargo, estudiante de Ingeniería Electrónica y apasionado por el desarrollo frontend. Me interesa la creación de experiencias digitales intuitivas, accesibles y bien diseñadas. Disfruto aprender nuevas tecnologías, resolver problemas complejos y trabajar en proyectos donde el detalle marca la diferencia.
+Soy LuisC-web, estudiante de Ingeniería Electrónica y apasionado por el desarrollo frontend. Me interesa la creación de experiencias digitales intuitivas, accesibles y bien diseñadas. Disfruto aprender nuevas tecnologías, resolver problemas complejos y trabajar en proyectos donde el detalle marca la diferencia.
 <div align="center">
   <img height="250" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fgifdb.com%2Fimages%2Fhigh%2Fpurple-cat-typing-at-work-n2ihfrdznlm2m5fc.gif&f=1&nofb=1&ipt=2b0153fe588ef5453a10b8126ac0f4262a861fab7cf1db3ea896fceefc75af38"  />
 </div>
